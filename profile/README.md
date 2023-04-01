@@ -37,8 +37,8 @@ All the cool technology that was used in this project.
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
 ![NextJs](https://img.shields.io/badge/-NextJS-05122A?style=flat&logo=next.js)
 ![Mui](https://img.shields.io/badge/-MUI-05122A?style=flat&logo=mui)
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)\
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)\
 ![.ENV](https://img.shields.io/badge/-.ENV-05122A?style=flat&logo=.env&logoColor=1572B6)
 ![C#](https://img.shields.io/badge/-CSharp-05122A?style=flat&logo=Csharp&logoColor=A8B9CC)
 ![ReSharper](https://img.shields.io/badge/-ReSharper-05122A?style=flat&logo=resharper&logoColor=A8B9CC)
