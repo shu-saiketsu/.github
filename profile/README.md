@@ -56,4 +56,4 @@ Special thanks to these folks for making the process and project  possible!
 - Sheffield Hallam University
 - Friends, family and StackOverflow
 
-![Secret Cat](https://cdn3.emoji.gg/emojis/5299-bleh.png)
+![Secret Cat](https://cdn3.emoji.gg/emojis/6021_Cat.gif)
