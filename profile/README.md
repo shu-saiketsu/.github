@@ -42,6 +42,7 @@ All the cool technology that was used in this project.
 ![.ENV](https://img.shields.io/badge/-.ENV-05122A?style=flat&logo=.env&logoColor=1572B6)
 ![C#](https://img.shields.io/badge/-CSharp-05122A?style=flat&logo=Csharp&logoColor=A8B9CC)
 ![.NET](https://img.shields.io/badge/-.NET-05122A?style=flat&logo=.net&logoColor=A8B9CC)
+![Resharper](https://img.shields.io/badge/-Resharper-05122A?style=flat&logo=resharper&logoColor=A8B9CC)
 
 ## 💖 Acknowledgements
 
