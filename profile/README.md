@@ -45,7 +45,7 @@ All the cool technology that was used in this project.
 ![DataGrip](https://img.shields.io/badge/-DataGrip-05122A?style=flat&logo=datagrip&logoColor=A8B9CC)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-05122A?style=flat&logo=github-actions&logoColor=A8B9CC)
 
-## 💖 Acknowledgements
+## 💖 Acknowledgements <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif">
 
 Special thanks to these folks for making the process and project  possible!
 - **(Project Supervisor)** Dr. Soumya Sankar Basu
