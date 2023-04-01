@@ -41,8 +41,8 @@ All the cool technology that was used in this project.
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)
 ![.ENV](https://img.shields.io/badge/-.ENV-05122A?style=flat&logo=.env&logoColor=1572B6)
 ![C#](https://img.shields.io/badge/-CSharp-05122A?style=flat&logo=Csharp&logoColor=A8B9CC)
-![.NET](https://img.shields.io/badge/-.NET-05122A?style=flat&logo=.net&logoColor=A8B9CC)
 ![ReSharper](https://img.shields.io/badge/-ReSharper-05122A?style=flat&logo=resharper&logoColor=A8B9CC)
+![DataGrip](https://img.shields.io/badge/-DataGrip-05122A?style=flat&logo=datagrip&logoColor=A8B9CC)
 
 ## 💖 Acknowledgements
 
