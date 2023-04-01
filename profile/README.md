@@ -1,6 +1,6 @@
 # Saiketsu Voting Project 【採決】 さいけつ
 
-<img align="right" width=390px  src="https://media3.giphy.com/media/kAnRgAnE5KuDUHtXNc/giphy.gif?cid=ecf05e47643daqgoivc2hrlksvh9v9j0ky61wshjosl6awuw&rid=giphy.gif&ct=g" />
+<img align="right" width=300px  src="https://media3.giphy.com/media/kAnRgAnE5KuDUHtXNc/giphy.gif?cid=ecf05e47643daqgoivc2hrlksvh9v9j0ky61wshjosl6awuw&rid=giphy.gif&ct=g" />
 
 ## 👨🏻‍💻 About the Project
 
