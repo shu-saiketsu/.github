@@ -11,6 +11,8 @@ The project is **microservice based** and allows users to vote in elections and 
 The project you see is in its **final submission** as it was when it was submitted on the **27th April 2023** at **15:00 GMT**. Do not use this project in production applications due to its lack of updates, there may be severe security vulnerabilities present.
 
 💡 Centralised voting system based on the microservice architecture.\
+🪥 Uses CQRS to allow independent scaling.\
+🫧 Used the [Clean Architecture](https://github.com/jasontaylordev/CleanArchitecture) to provide seperation.\
 🎓 Implements an API gateway to abstract away microservices.\
 🌱 Uses Auth0's Authentication and RBAC systems to securely verify actions.\
 ✍️ Created as a disertation project for Sheffield Hallam University.\
