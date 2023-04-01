@@ -56,4 +56,14 @@ Special thanks to these folks for making the process and project  possible!
 - Sheffield Hallam University
 - Friends, family and StackOverflow
 
-<img height="30" src="https://cdn3.emoji.gg/emojis/6021_Cat.gif">
+<div align="center">
+  <sub>Voting is, and should remain an essential part of democracy.</sub>
+
+  <sub>Made with 💖 by <a href="https://github.com/whatshark">Nathan Hall</a>.</sub>
+
+  <img height="30" src="https://cdn3.emoji.gg/emojis/6021_Cat.gif">
+</div>
+
+
+
+
