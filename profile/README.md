@@ -48,7 +48,37 @@ All the cool technology that was used in this project.
 ![DataGrip](https://img.shields.io/badge/-DataGrip-05122A?style=flat&logo=datagrip&logoColor=A8B9CC)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-05122A?style=flat&logo=github-actions&logoColor=A8B9CC)
 
-## 💖 Acknowledgements <img height="30" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif">
+## ⚙️ Installation and Configuration
+Each project is isolated, meaning that it does not reply upon other microservices to function.
+
+- Please see each different service's **README.md** for further instructions.
+- External services such as Auth0 are not covered.
+
+## 🥅 Microservices
+There are a total of five **(5)** microservices in the solution. In addition, there is also a **gateway** and **frontend** application.
+
+### 🤺 Gateway
+Provides functionality for...
+
+### 🔥 Frontend
+Provides functionality for...
+
+### 👤 Candidate Service
+Provides functionality for...
+
+### 📃 Vote Service
+Provides functionality for...
+
+### ⚡ Election Service
+Provides functionality for...
+
+### ✅ User Service
+Provides functionality for...
+
+### 🥳 Party Service
+Provides functionality for...
+
+## 💖 Acknowledgements
 
 Special thanks to these folks for making the process and project  possible!
 - **(Project Supervisor)** Dr. Soumya Sankar Basu
