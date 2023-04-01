@@ -49,7 +49,7 @@ All the cool technology that was used in this project.
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-05122A?style=flat&logo=github-actions&logoColor=A8B9CC)
 
 ## ⚙️ Installation and Configuration
-Each project is isolated, meaning that it does not reply upon other microservices to function.
+Each microservice is isolated, meaning that it does not reply upon other microservices to function.
 
 - Please see each different service's **README.md** for further instructions.
 - External services such as Auth0 are not covered.
