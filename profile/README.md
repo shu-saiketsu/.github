@@ -12,7 +12,7 @@ The project you see is in its **final submission** as it was when it was submitt
 
 💡 Centralised voting system based on the microservice architecture.\
 🪥 Uses CQRS to allow independent scaling.\
-🫧 Used the [Clean Architecture](https://github.com/jasontaylordev/CleanArchitecture) to provide seperation.\
+🫧 Integrates with the [Clean Architecture](https://github.com/jasontaylordev/CleanArchitecture) to provide seperation.\
 🎓 Implements an API gateway to abstract away microservices.\
 🌱 Uses Auth0's Authentication and RBAC systems to securely verify actions.\
 ✍️ Created as a disertation project for Sheffield Hallam University.\
