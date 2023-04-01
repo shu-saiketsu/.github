@@ -43,6 +43,7 @@ All the cool technology that was used in this project.
 ![C#](https://img.shields.io/badge/-CSharp-05122A?style=flat&logo=Csharp&logoColor=A8B9CC)
 ![ReSharper](https://img.shields.io/badge/-ReSharper-05122A?style=flat&logo=resharper&logoColor=A8B9CC)
 ![DataGrip](https://img.shields.io/badge/-DataGrip-05122A?style=flat&logo=datagrip&logoColor=A8B9CC)
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-05122A?style=flat&logo=github-actions&logoColor=A8B9CC)
 
 ## 💖 Acknowledgements
 
