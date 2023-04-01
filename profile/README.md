@@ -8,7 +8,7 @@ The project's name is taken from the Japanese word ['to vote'](https://jisho.org
 
 The project is **microservice based** and allows users to vote in elections and allows the creation of elections using administrator accounts. 
 
-The project you see is in its **final submission** as it was when it was submitted on the **27th April 2023** at **15:00 GMT**. Do not use this project in production applications due to its lack of updates, there may be severe security vulnerabilities present. It is in a permenant archive and this will not change, so please don't submit issues or pull requests as no action will occur.
+The project you see is in its **final submission** as it was when it was submitted on the **27th April 2023** at **15:00 GMT**. Do not use this project in production applications due to its lack of updates, there may be severe security vulnerabilities present.
 
 💡 Centralised voting system based on the microservice architecture.\
 🎓 Implements an API gateway to abstract away microservices.\
