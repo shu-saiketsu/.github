@@ -22,18 +22,18 @@ The project you see is in its **final submission** as it was when it was submitt
 
 ## 🛠 Tech Stack
 
-All the cool technology that was used in this project.
+All the technology, and utilities, that were used to make this project a success.
 
 ![Auth0](https://img.shields.io/badge/-Auth0-05122A?style=flat&logo=auth0)
 ![Swagger](https://img.shields.io/badge/-Swagger-05122A?style=flat&logo=swagger)
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)\
-![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-05122A?style=flat&logo=visual-studio&logoColor=007ACC)
-![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-05122A?style=flat&logo=rabbitmq&logoColor=007ACC)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql&logoColor=007ACC)
-![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker&logoColor=007ACC)
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code)\
+![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-05122A?style=flat&logo=visual-studio)
+![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-05122A?style=flat&logo=rabbitmq)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)
+![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)\
 ![Eslint](https://img.shields.io/badge/-ESLint-05122A?style=flat&logo=eslint)
 ![Prettier](https://img.shields.io/badge/-Prettier-05122A?style=flat&logo=prettier)
@@ -41,12 +41,26 @@ All the cool technology that was used in this project.
 ![NextJs](https://img.shields.io/badge/-NextJS-05122A?style=flat&logo=next.js)
 ![Mui](https://img.shields.io/badge/-MUI-05122A?style=flat&logo=mui)
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)\
-![.ENV](https://img.shields.io/badge/-.ENV-05122A?style=flat&logo=.env&logoColor=1572B6)
-![C#](https://img.shields.io/badge/-CSharp-05122A?style=flat&logo=Csharp&logoColor=A8B9CC)
-![ReSharper](https://img.shields.io/badge/-ReSharper-05122A?style=flat&logo=resharper&logoColor=A8B9CC)
-![DataGrip](https://img.shields.io/badge/-DataGrip-05122A?style=flat&logo=datagrip&logoColor=A8B9CC)
-![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-05122A?style=flat&logo=github-actions&logoColor=A8B9CC)
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3)\
+![.ENV](https://img.shields.io/badge/-.ENV-05122A?style=flat&logo=.env)
+![C#](https://img.shields.io/badge/-CSharp-05122A?style=flat&logo=Csharp)
+![ReSharper](https://img.shields.io/badge/-ReSharper-05122A?style=flat&logo=resharper)
+![DataGrip](https://img.shields.io/badge/-DataGrip-05122A?style=flat&logo=datagrip)
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-05122A?style=flat&logo=github-actions)\
+![React Hook Form](https://img.shields.io/badge/-React%20Hook%20Form-05122A?style=flat&logo=react-hook-form)
+![Windows Terminal](https://img.shields.io/badge/-Windows%20Terminal-05122A?style=flat&logo=windows-terminal)
+![Spotify](https://img.shields.io/badge/-Spotify-05122A?style=flat&logo=spotify)
+![YouTube](https://img.shields.io/badge/-YouTube-05122A?style=flat&logo=youtube)\
+![StackOverflow](https://img.shields.io/badge/-StackOverflow-05122A?style=flat&logo=stackoverflow)
+![Google](https://img.shields.io/badge/-Google-05122A?style=flat&logo=google)
+![Microsoft Teams](https://img.shields.io/badge/-Microsoft%20Teams-05122A?style=flat&logo=microsoft-teams)
+![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman)
+![.NET](https://img.shields.io/badge/-.NET-05122A?style=flat&logo=.net)\
+![JetBrains](https://img.shields.io/badge/-JetBrains-05122A?style=flat&logo=jetbrains)
+![Discord](https://img.shields.io/badge/-Discord-05122A?style=flat&logo=discord)
+![Mozilla](https://img.shields.io/badge/-Mozilla-05122A?style=flat&logo=mozilla)
+![Google Chrome](https://img.shields.io/badge/-Google%20Chrome-05122A?style=flat&logo=google-chrome)
+![Giphy](https://img.shields.io/badge/-Giphy-05122A?style=flat&logo=giphy)
 
 ## ⚙️ Installation and Configuration
 Each microservice is isolated, meaning that it does not reply upon other microservices to function.
@@ -80,11 +94,12 @@ Provides functionality for...
 
 ## 💖 Acknowledgements
 
-Special thanks to these folks for making the process and project  possible!
+Special thanks to these folks for making the process and project possible!
 - **(Project Supervisor)** Dr. Soumya Sankar Basu
 - **(External Examiner)** Dr Kathy Clawson
 - Sheffield Hallam University
 - Friends, family and StackOverflow
+- Dancing Cat GIFs
 
 <div align="center">
   <sub>Voting is, and should remain an essential part of democracy.</sub>
