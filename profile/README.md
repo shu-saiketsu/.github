@@ -55,3 +55,5 @@ Special thanks to these folks for making the process and project  possible!
 - **(External Examiner)** Dr Kathy Clawson
 - Sheffield Hallam University
 - Friends, family and StackOverflow
+
+![Secret Cat](https://cdn3.emoji.gg/emojis/5299-bleh.png)
