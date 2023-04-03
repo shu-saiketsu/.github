@@ -61,6 +61,7 @@ All the technology, and utilities, that were used to make this project a success
 ![Mozilla](https://img.shields.io/badge/-Mozilla-05122A?style=flat&logo=mozilla)
 ![Google Chrome](https://img.shields.io/badge/-Google%20Chrome-05122A?style=flat&logo=google-chrome)
 ![Giphy](https://img.shields.io/badge/-Giphy-05122A?style=flat&logo=giphy)
+![JSON](https://img.shields.io/badge/-JSON-05122A?style=flat&logo=json)
 
 ## ⚙️ Installation and Configuration
 Each microservice is isolated, meaning that it does not reply upon other microservices to function.
