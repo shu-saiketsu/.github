@@ -77,6 +77,9 @@ Utilises CQRS to independently CRUD data from resources (micro-services). Uses A
 ### 🔥 Frontend
 Communicates with the gateway to perform CRUD actions upon the user. Connects with Auth0 to provide login and cookie functionality.
 
+### 💖 Health
+Communicates with microservices to see if they're healthy, degraded or down.
+
 ### 👤 Candidate Service
 Provides a source of truth for candidate entities in the system.
 
