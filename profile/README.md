@@ -73,25 +73,25 @@ Each microservice is isolated, meaning that it does not reply upon other microse
 There are a total of five **(5)** microservices in the solution. In addition, there is also a **gateway** and **frontend** application.
 
 ### 🤺 Gateway
-Provides functionality for...
+Utilises CQRS to independently CRUD data from resources (micro-services). Uses Auth0 as an authorization, authentication and RBAC source to protect endpoints.
 
 ### 🔥 Frontend
-Provides functionality for...
+Communicates with the gateway to perform CRUD actions upon the user. Connects with Auth0 to provide login and cookie functionality.
 
 ### 👤 Candidate Service
-Provides functionality for...
+Provides a source of truth for candidate entities in the system.
 
 ### 📃 Vote Service
-Provides functionality for...
+Provides a source of truth for vote entities in the system.
 
 ### ⚡ Election Service
-Provides functionality for...
+Provides a source of truth for election entities in the system. A large aggregator of entities in the system as it uses many integration events to sync entities together.
 
 ### ✅ User Service
-Provides functionality for...
+Provides a gateway for the Auth0 implementation.
 
 ### 🥳 Party Service
-Provides functionality for...
+Provides a source of truth for party entities in the system.
 
 ## 💖 Acknowledgements
 
