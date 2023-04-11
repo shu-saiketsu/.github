@@ -18,7 +18,6 @@ The project you see is in its **final submission** as it was when it was submitt
 🔥 Implements RabbitMQ to ensure eventual consistency is met.\
 ✅ Uses different voting systems for a variety of environments.\
 ✍️ Created as a disertation project for Sheffield Hallam University.\
-🕒 **TODO: UPDATE MARK HERE WHEN DONE**
 
 ## 🛠 Tech Stack
 
