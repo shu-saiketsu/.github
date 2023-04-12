@@ -69,7 +69,7 @@ Each microservice is isolated, meaning that it does not reply upon other microse
 - External services such as Auth0 are not covered.
 
 ## 🥅 Microservices
-There are a total of five **(5)** microservices in the solution. In addition, there is also a **gateway** and **frontend** application.
+There are a total of eight **(8)** microservices in the solution.
 
 ### 🤺 Gateway
 Utilises CQRS to independently CRUD data from resources (micro-services). Uses Auth0 as an authorization, authentication and RBAC source to protect endpoints.
